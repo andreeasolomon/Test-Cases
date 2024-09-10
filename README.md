@@ -1,4 +1,4 @@
-# Tests-Cases
+# Test-Cases
 Test cases written in Qase. 
 
 ## Login eMAG
